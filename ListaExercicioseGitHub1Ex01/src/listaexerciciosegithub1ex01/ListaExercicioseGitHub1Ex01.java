@@ -27,9 +27,9 @@ public class ListaExercicioseGitHub1Ex01 {
         System.out.println("Insira um número para verificar se é um número perfeito: ");
         int numero = Ler.nextInt();
         if (ehNumeroPerfeito(numero)) {
-            System.out.println(numero + " é um número perfeito.");
+            System.out.println(numero + " é um número perfeito");
         } else {
-            System.out.println(numero + " não é um número perfeito.");
+            System.out.println(numero + " não é um número perfeito");
         }
     }
 }
